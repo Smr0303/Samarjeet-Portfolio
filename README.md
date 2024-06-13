@@ -1,14 +1,13 @@
 **Portfolio**
-Live Preview - [Click Here](https://salesp07.github.io/)
 
-<br/>
+<!-- <br/>
 <div align="center">
   <img alt="Demo" src="public/mockup.png" />
 </div>
 <br/>
-<br/>
+<br/> -->
 
-# 🛠 Installation and Setup Instructions
+<!-- # 🛠 Installation and Setup Instructions
 
 1. Fork and clone this repository. You will need NodeJs and Git installed on your machine..
 
@@ -42,5 +41,5 @@ Pull Requests are welcome :)
 
 ## Show your support
 
-Give a ⭐ if you like this website!
+Give a ⭐ if you like this website! -->
 # Samarjeet-Portfolio
