@@ -1,50 +1,69 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    img: "/trillow.jpg",
+    title: "MultiWallet",
     description:
       "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
     tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
-    github_url: "",
-    demo_url: "https://youknowtheending.net/",
+    github_url: "https://github.com/Smr0303/MultiWallet",
+    demo_url: "https://multi-wallet-beta.vercel.app/",
   },
   {
     img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    title: "SmartKart",
     description:
       "A safety application for the Renewable Resources Dept. of BCIT",
     tech_stack: ["React", "Firebase"],
-    github_url: "",
+    github_url: "https://github.com/Flipkart-Grid5-0-Blockchain/grid-frontendm",
     demo_url: "https://renr-bcit.web.app/",
   },
   {
     img: "/mymind-responsive.png",
-    title: "MyMind",
+    title: "MercadoNFT",
     description:
       "An app where users can purchase online therapy sessions and chat with their therapists.",
     tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
+    github_url: "https://github.com/Smr0303/MercadoNFT",
     demo_url: "https://mymindweb.vercel.app/",
   },
   {
     img: "/pokedex-responsive.png",
-    title: "Pokedex",
+    title: "Trillow4907",
     description:
       "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
     tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
+    github_url: "https://github.com/Smr0303/Trillow",
+    demo_url: "https://trillow.vercel.app/",
   },
   {
-    img: "/jobDetect.png",
-    title: "JobDetect",
+    img: "/Krypt.png",
+    title: "Krypt",
     description:
       "An app to detect if a job posting is a scam or not using its description.",
     tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
     github_url: "https://github.com/salesp07/JobDetectNode",
     demo_url: "https://jobdetective.onrender.com/",
   },
+  {
+    img: "/jobDetect.png",
+    title: "Shopvivo",
+    description:
+      "An app to detect if a job posting is a scam or not using its description.",
+    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
+    github_url: "https://github.com/salesp07/JobDetectNode",
+    demo_url: "https://jobdetective.onrender.com/",
+  },
+  {
+    img: "/movie.jpg",
+    title: "Movie-BookingApp",
+    description:
+      "An app to detect if a job posting is a scam or not using its description.",
+    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
+    github_url: "https://github.com/salesp07/JobDetectNode",
+    demo_url: "https://jobdetective.onrender.com/",
+  },
+  
 ];
 
 // --------------------------------------- Skills

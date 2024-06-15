@@ -1,5 +1,6 @@
 import React from "react";
 import { FaLinkedin, FaGithub } from "react-icons/fa";
+import { SiLeetcode } from "react-icons/si";
 import styled from "@emotion/styled";
 import ScrollAnimation from "react-animate-on-scroll";
 
@@ -58,7 +59,7 @@ function FixSocialIcon() {
         <ul>
           <li className="item">
             <a
-              href="https://www.linkedin.com/in/pedro-sales-muniz"
+              href="https://www.linkedin.com/in/smr0x03/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -67,11 +68,20 @@ function FixSocialIcon() {
           </li>
           <li className="item">
             <a
-              href="https://github.com/salesp07"
+              href="https://github.com/Smr0303"
               target="_blank"
               rel="noopener noreferrer"
             >
               <FaGithub />
+            </a>
+          </li>
+          <li className="item">
+            <a
+              href="https://leetcode.com/u/Smohite3/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <SiLeetcode />
             </a>
           </li>
         </ul>
