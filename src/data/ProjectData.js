@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/trillow.jpg",
+    img: "/MultiWallet.png",
     title: "MultiWallet",
     description:
       "A digital multi-signature wallet implemented using account abstraction. Users can create and manage multiple smart contract accounts through it",
@@ -10,7 +10,7 @@ export const ProjectList = [
     demo_url: "https://multi-wallet-beta.vercel.app/",
   },
   {
-    img: "/renr-responsive.png",
+    img: "/smartkart.png",
     title: "SmartKart",
     description:
       "An ecommerce platform having a decentralised loyalty managment system with a customer centric tokenomics for providng rewards to users",
@@ -19,7 +19,7 @@ export const ProjectList = [
     demo_url:  "https://youtu.be/QQskLAJ6yng",
   },
   {
-    img: "/mymind-responsive.png",
+    img: "/Mercado.png",
     title: "MercadoNFT",
     description:
       "A decentralised NFT marketplace where users can buy and sell NFTs, ensuring transparencyand true ownership.",
@@ -46,7 +46,7 @@ export const ProjectList = [
     demo_url: "https://chic-peony-f0115b.netlify.app/",
   },
   {
-    img: "/jobDetect.png",
+    img: "/shopvivo.png",
     title: "Shopvivo",
     description:
       "An ecommerce web application built for learning MERN stack and aining a comprehensive  understanding web architecture ",
@@ -55,7 +55,7 @@ export const ProjectList = [
     demo_url: "https://jobdetective.onrender.com/",
   },
   {
-    img: "/movie.jpg",
+    img: "/Movie.png",
     title: "KinoTicket",
     description:
       "A Movie ticket booking web application where users can book their slots for movie and pay online  ",
