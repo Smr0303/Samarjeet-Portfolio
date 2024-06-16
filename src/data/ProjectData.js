@@ -1,32 +1,32 @@
 // --------------------------------------- Project List
 export const ProjectList = [
-  {
-    img: "/trillow.jpg",
-    title: "MultiWallet",
-    description:
-      "A digital multi-signature wallet implemented using account abstraction. Users can create and manage multiple smart contract accounts through it",
-    tech_stack: ["NextJs", "Foundry", "Prisma", "Wagmi","TailwindCss"],
-    github_url: "https://github.com/Smr0303/MultiWallet",
-    demo_url: "https://multi-wallet-beta.vercel.app/",
-  },
-  {
-    img: "/renr-responsive.png",
-    title: "SmartKart",
-    description:
-      "An ecommerce platform having a decentralised loyalty managment system with a customer centric tokenomics for providng rewards to users",
-    tech_stack: ["React", "Supabase-SDK", "Hardhat","Ethers"],
-    github_url: "https://github.com/Flipkart-Grid5-0-Blockchain/grid-frontend",
-    demo_url:  "https://youtu.be/QQskLAJ6yng",
-  },
-  {
-    img: "/mymind-responsive.png",
-    title: "MercadoNFT",
-    description:
-      "A decentralised NFT marketplace where users can buy and sell NFTs, ensuring transparencyand true ownership.",
-    tech_stack: ["NextJs", "Moralis","Hardhat", "Ethers", "GraphQL"],
-    github_url: "https://github.com/Smr0303/MercadoNFT",
-    demo_url: "",
-  },
+  // {
+  //   img: "/trillow.jpg",
+  //   title: "MultiWallet",
+  //   description:
+  //     "A digital multi-signature wallet implemented using account abstraction. Users can create and manage multiple smart contract accounts through it",
+  //   tech_stack: ["NextJs", "Foundry", "Prisma", "Wagmi","TailwindCss"],
+  //   github_url: "https://github.com/Smr0303/MultiWallet",
+  //   demo_url: "https://multi-wallet-beta.vercel.app/",
+  // },
+  // {
+  //   img: "/renr-responsive.png",
+  //   title: "SmartKart",
+  //   description:
+  //     "An ecommerce platform having a decentralised loyalty managment system with a customer centric tokenomics for providng rewards to users",
+  //   tech_stack: ["React", "Supabase-SDK", "Hardhat","Ethers"],
+  //   github_url: "https://github.com/Flipkart-Grid5-0-Blockchain/grid-frontend",
+  //   demo_url:  "https://youtu.be/QQskLAJ6yng",
+  // },
+  // {
+  //   img: "/mymind-responsive.png",
+  //   title: "MercadoNFT",
+  //   description:
+  //     "A decentralised NFT marketplace where users can buy and sell NFTs, ensuring transparencyand true ownership.",
+  //   tech_stack: ["NextJs", "Moralis","Hardhat", "Ethers", "GraphQL"],
+  //   github_url: "https://github.com/Smr0303/MercadoNFT",
+  //   demo_url: "",
+  // },
   {
     img: "/trillow.jpg",
     title: "Trillow4907",
