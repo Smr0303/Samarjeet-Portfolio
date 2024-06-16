@@ -1,11 +1,11 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "",
+    img: "/trillow.jpg",
     title: "MultiWallet",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
+      "A digital multi-signature wallet implemented using account abstraction. Users can create and manage multiple smart contract accounts through it",
+    tech_stack: ["NextJs", "Foundry", "Prisma", "Wagmi","TailwindCss"],
     github_url: "https://github.com/Smr0303/MultiWallet",
     demo_url: "https://multi-wallet-beta.vercel.app/",
   },
@@ -13,17 +13,17 @@ export const ProjectList = [
     img: "/renr-responsive.png",
     title: "SmartKart",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
-    github_url: "https://github.com/Flipkart-Grid5-0-Blockchain/grid-frontendm",
-    demo_url: "https://renr-bcit.web.app/",
+      "An ecommerce platform having a decentralised loyalty managment system with a customer centric tokenomics for providng rewards to users",
+    tech_stack: ["React", "Supabase-SDK", "Hardhat","Ethers"],
+    github_url: "https://github.com/Flipkart-Grid5-0-Blockchain/grid-frontend",
+    demo_url:  "https://youtu.be/QQskLAJ6yng",
   },
   {
     img: "/mymind-responsive.png",
     title: "MercadoNFT",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
+      "A decentralised NFT marketplace where users can buy and sell NFTs, ensuring transparencyand true ownership.",
+    tech_stack: ["NextJs", "Moralis","Hardhat", "Ethers", "GraphQL"],
     github_url: "https://github.com/Smr0303/MercadoNFT",
     demo_url: "",
   },
@@ -31,8 +31,8 @@ export const ProjectList = [
     img: "/trillow.jpg",
     title: "Trillow4907",
     description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
+      "A real estate NFT DApp leveraging the power of rentable NFTs implemented using ERC4907. Allowing users to trade real estate digitally",
+    tech_stack: ["ReactJs", "Hardhat", "Ethers","IPFS"],
     github_url: "https://github.com/Smr0303/Trillow",
     demo_url: "https://trillow.vercel.app/",
   },
@@ -40,26 +40,26 @@ export const ProjectList = [
     img: "/Krypt.png",
     title: "Krypt",
     description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
+      "A web application for transferring Ethereum and securely storing transaction records on the Ethereum blockchain.",
+    tech_stack: ["Vite", "ReactJs", "Hardhat", "Ethers"],
     github_url: "https://github.com/Smr0303/Transaction-App",
-    demo_url: "https://jobdetective.onrender.com/",
+    demo_url: "https://chic-peony-f0115b.netlify.app/",
   },
   {
     img: "/jobDetect.png",
     title: "Shopvivo",
     description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
+      "An ecommerce web application built for learning MERN stack and aining a comprehensive  understanding web architecture ",
+    tech_stack: ["ReactJS", "NodeJs", "MongoDB","Cloudinary"],
     github_url: "https://github.com/Smr0303/Shopvivo",
     demo_url: "https://jobdetective.onrender.com/",
   },
   {
     img: "/movie.jpg",
-    title: "Movie-BookingApp",
+    title: "KinoTicket",
     description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
+      "A Movie ticket booking web application where users can book their slots for movie and pay online  ",
+    tech_stack: ["HTML", "CSS", "NodeJs", "PostgreSQL","RazorPay"],
     github_url: "https://github.com/Smr0303/Movie-Frontend",
     demo_url: "https://kinoticket.netlify.app/",
   },
@@ -111,12 +111,16 @@ export const stackList = [
    name: "Hardhat"
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
-    name: "Git",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
     name: "NodeJS",
+  },
+  {
+    img : "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg",
+    name: "Express"
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
+    name: "Git",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",

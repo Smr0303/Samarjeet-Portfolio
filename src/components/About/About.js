@@ -23,20 +23,27 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Samarjeet Mohite</strong>. I'm originally from Brazil and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            Hello! My name is <strong>Samarjeet Mohite</strong>. I am currently a Final Year Student at IIIT Gwalior. My journey into the world of technology began upon entering college, where I developed a passion for creating applications using various JavaScript frameworks over the past three years.
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            Midway through my academic career, I developed a deep interest in blockchain technology and have since built several web3 applications using Solidity and other blockchain frameworks. This newfound passion for blockchain led me to intern at Sarvatech Labs as a Blockchain Developer, where I gained valuable hands-on experience
+            </ScrollAnimation>
+
+            <br /><br />
+            
+            <ScrollAnimation animateIn="fadeInLeft">
+            In addition to my blockchain work, I also served as an SDE intern (Full Stack Developer) at Inovocare Healthsoft Solutions. These roles have allowed me to hone my skills in both leadership and teamwork. I am confident in my ability to work effectively within a team.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
+              Recently, my interest has shifted towards understanding the underlying mechanisms of blockchains, including core systems and protocols. This deeper dive into blockchain fundamentals has fueled my eagerness for opportunities related to this area of study and
+              I am open to work  about any opportunity that allows me to explore and contribute to this field .
+
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>
