@@ -1,7 +1,7 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/trillow.jpg",
+    img: "",
     title: "MultiWallet",
     description:
       "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
@@ -25,10 +25,10 @@ export const ProjectList = [
       "An app where users can purchase online therapy sessions and chat with their therapists.",
     tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
     github_url: "https://github.com/Smr0303/MercadoNFT",
-    demo_url: "https://mymindweb.vercel.app/",
+    demo_url: "",
   },
   {
-    img: "/pokedex-responsive.png",
+    img: "/trillow.jpg",
     title: "Trillow4907",
     description:
       "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
@@ -42,7 +42,7 @@ export const ProjectList = [
     description:
       "An app to detect if a job posting is a scam or not using its description.",
     tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
+    github_url: "https://github.com/Smr0303/Transaction-App",
     demo_url: "https://jobdetective.onrender.com/",
   },
   {
@@ -51,7 +51,7 @@ export const ProjectList = [
     description:
       "An app to detect if a job posting is a scam or not using its description.",
     tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
+    github_url: "https://github.com/Smr0303/Shopvivo",
     demo_url: "https://jobdetective.onrender.com/",
   },
   {
@@ -60,8 +60,8 @@ export const ProjectList = [
     description:
       "An app to detect if a job posting is a scam or not using its description.",
     tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
+    github_url: "https://github.com/Smr0303/Movie-Frontend",
+    demo_url: "https://kinoticket.netlify.app/",
   },
   
 ];
@@ -70,17 +70,22 @@ export const ProjectList = [
 
 export const stackList = [
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
-    name: "HTML",
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
+    name: "C",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
-    name: "CSS",
+    img:"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg",
+    name: "C++",     
+  },
+  {
+    img : "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg",
+    name: "Solidity"       
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
     name: "JavaScript",
   },
+   
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
     name: "ReactJS",
@@ -90,16 +95,24 @@ export const stackList = [
     name: "NextJs",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
-    name: "Typescript",
+    img :"https://cryptologos.cc/logos/chainlink-link-logo.svg?v=032",
+    name: "Chainlink"
+  },
+  {
+    img :"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mocha/mocha-original.svg",
+    name: "Mocha"
+  },
+  {
+   img : "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg",
+    name: "Graph"    
+  },
+  {
+   img :"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hardhat/hardhat-original.svg",
+   name: "Hardhat"
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-    name: "React Native",
   },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
@@ -114,43 +127,19 @@ export const stackList = [
     name: "MongoDB",
   },
   {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-    name: "Python",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg",
-    name: "Flask",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
-    name: "C",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
-    name: "Java",
-  },
-  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
     name: "MySQL",
   },
   {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
+    name: "HTML",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
+    name: "CSS",
+  },
+  {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg",
     name: "Bootstrap",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg",
-    name: "Material UI",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg",
-    name: "Figma",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
-    name: "TailwindCSS",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
-    name: "VS Code",
   },
 ];
