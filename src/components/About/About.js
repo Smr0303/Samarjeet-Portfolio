@@ -8,6 +8,7 @@ import {
   TechName,
   ContactWrapper,
 } from "./AboutElements";
+
 import ScrollAnimation from "react-animate-on-scroll";
 function About() {
   return (

@@ -52,7 +52,7 @@ export const ProjectList = [
       "An ecommerce web application built for learning MERN stack and aining a comprehensive  understanding web architecture ",
     tech_stack: ["ReactJS", "NodeJs", "MongoDB","Cloudinary"],
     github_url: "https://github.com/Smr0303/Shopvivo",
-    demo_url: "",
+    demo_url: "https://shopvivo.onrender.com/",
   },
   {
     img: "/Movie.png",
